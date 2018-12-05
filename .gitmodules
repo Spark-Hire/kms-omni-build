@@ -1,18 +1,18 @@
 [submodule "kms-cmake-utils"]
 	path = kms-cmake-utils
-	url = ../kms-cmake-utils
+	url = https://github.com/Kurento/kms-cmake-utils.git
 	master = master
 [submodule "kms-jsonrpc"]
 	path = kms-jsonrpc
-	url = ../kms-jsonrpc
+	url = https://github.com/Kurento/kms-cmake-utils.git
 	master = master
 [submodule "kms-core"]
 	path = kms-core
-	url = ../kms-core
+	url = https://github.com/Kurento/kms-core.git
 	master = master
 [submodule "kurento-module-creator"]
 	path = kurento-module-creator
-	url = ../kurento-module-creator
+	url = https://github.com/Kurento/kurento-module-creator.git
 	master = master
 [submodule "kms-elements"]
 	path = kms-elements
@@ -20,9 +20,9 @@
 	master = master
 [submodule "kms-filters"]
 	path = kms-filters
-	url = ../kms-filters
+	url = https://github.com/Kurento/kms-filters.git
 	master = master
 [submodule "kurento-media-server"]
 	path = kurento-media-server
-	url = ../kurento-media-server
+	url = https://github.com/Kurento/kurento-media-server.git
 	master = master
