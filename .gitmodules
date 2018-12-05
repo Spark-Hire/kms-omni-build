@@ -16,7 +16,7 @@
 	master = master
 [submodule "kms-elements"]
 	path = kms-elements
-	url = ../kms-elements
+	url = git@github.com:Spark-Hire/kms-elements.git
 	master = master
 [submodule "kms-filters"]
 	path = kms-filters
